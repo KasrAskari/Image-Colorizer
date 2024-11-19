@@ -21,5 +21,4 @@ The **Image-Colorizer** project leverages deep learning techniques to add realis
 - **OpenCV**: Image processing library for handling image inputs and outputs.  
 
 ## License  
-This project is licensed under the [colorization_release_v2.caffemodel](https://storage.openvinotoolkit.org/repositories/datumaro/models/colorization/) 
-.
+[colorization_release_v2.caffemodel](https://storage.openvinotoolkit.org/repositories/datumaro/models/colorization/)
